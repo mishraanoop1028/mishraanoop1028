@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Anoop Mishra from LUCKNOW, India. I am a final year CIVIL MTECH student who is enthusiastic about MODEL Development . I am always looking forward to learning new technologies and implementing them! Currently enhancing my skills in GenAI Development. Will definitely try Cloud Computing and Model Development in the near future. Oh, and I also like to do Competitive Programming!🙋‍♀️</h1>
+<h1 align="center">Hi 👋, I'm Anoop Mishra from LUCKNOW, India. I am a final year MTECH student who is enthusiastic about MODEL Development . I am always looking forward to learning new technologies and implementing them! Currently enhancing my skills in GenAI Development. Will definitely try Cloud Computing and Model Development in the near future. Oh, and I also like to do Competitive Programming!🙋‍♀️</h1>
 <h3 align="center">A passionate in 👨‍💻 Data Analyst & Machine Learning Enthusiast | 📊 Data Visualization | 🧠 Deep Learning | 🖥️ Computer Vision | 🌐 GIS Specialist 🌐 Data Analyst | 📊 Data Visualization | 📈 Predictive Analytics | 🧩 Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."</h4>
 
