@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [MALAVIYA NATIONAL INSTITUTE OF TECHNOLOGY](https://github.com/mishraanoop1028/DP-PRIDICTION.git)
 
-- 🌱 I’m currently learning **GenAI,GIS**
+- 🌱 I’m currently learning **GenAI,LLM MODEL**
 
-- 👯 I’m looking to collaborate on [CLIMATE CHANGE IMPACT ON HYDROLOGIC CYCLE](https://github.com/mishraanoop1028)
+- 👯 I’m looking to collaborate on [DATA ANALYSIS](https://github.com/mishraanoop1028)
 
 - 🤝 I’m looking for help with [Passionate about collecting and analyzing data to drive insights and decision-making. Skilled in field data collection, cleaning, analysis, and visualization using tools like Python, Tableau, and GIS.](https://github.com/mishraanoop1028/PROJECT24)
 
