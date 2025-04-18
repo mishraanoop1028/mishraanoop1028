@@ -1,4 +1,67 @@
-<h2 align="center">Hi 👋, I'm Anoop Mishra from LUCKNOW, India. I am a final year MTECH student who is enthusiastic about MODEL Development . I am always looking forward to learning new technologies and implementing them! Currently enhancing my skills in GenAI Development. Will definitely try Cloud Computing and Model Development in the near future. Oh, and I also like to play with DATA!🙋‍♀️</h1>
+<h3 align="center">Hi 👋,<h1 align="center">Hi there 👋, I'm Anoop Mishra</h1>
+<h3 align="center">🚀 M.Tech Final Year Student | Data Enthusiast | Model Developer | GenAI Learner</h3>
+
+---
+
+### 📍 About Me
+
+I'm **Anoop Mishra** from **Lucknow, India**, currently pursuing my **M.Tech in Civil Engineering** at **Malaviya National Institute of Technology, Jaipur (MNIT Jaipur)**.
+
+- 🎯 Passionate about **Model Development** and working with **Real-World Data**
+- 🔬 Currently diving into **GenAI** and **Data Science**
+- ☁️ Exploring **Cloud Computing** & **AI Model Deployment**
+- 📊 Love creating insights from data — especially in **Climate**, **Environment**, and **Drought Analysis**
+
+---
+
+### 🧠 Currently Working On
+
+- 📌 **Project**: `Drought Analysis using SPI & Trend Analysis (1980–2020)`
+- 📍 **Region**: Jaipur & Jodhpur Divisions, Rajasthan, India
+- 🧪 Using: SPI-3, SPI-6, SPI-9, SPI-12, SPI-18, Mann-Kendall, Sen’s Slope
+- 🛠 Tools: Python, Excel, Pandas, Matplotlib, GIS, IMD Rainfall Data
+
+---
+
+### 🛠️ Skills & Tools
+
+- 👨‍💻 Python | Excel | Power BI | Pandas | Matplotlib | NumPy
+- 🌍 GIS & Remote Sensing
+- 🌐 Web | APIs | Automation
+- 🧠 GenAI | LLMs (Hugging Face, OpenAI)
+- ☁️ Cloud (Learning Phase – AWS/GCP)
+- 📚 Research | Data Visualization | Statistical Analysis
+
+---
+
+### 📫 Connect with Me
+
+- 🔗 LinkedIn: [anoop-mishra-b5b61314a](https://www.linkedin.com/in/anoop-mishra-b5b61314a/)
+- 📬 Email: anoopkumarmishra3875@gmail.com
+- 🐙 GitHub: [mishraanoop1028](https://github.com/mishraanoop1028)
+- 📍 Location: Lucknow, Uttar Pradesh, India
+- 📱 Phone: 8968343668
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mishraanoop1028&show_icons=true&theme=tokyonight" alt="Anoop's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraanoop1028&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌱 Quote I Follow
+
+> "Learn continuously, improve constantly, and innovate boldly."
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect!*  
+🙋‍♀️</h1>
 <h3 align="center">A passionate in 👨‍💻 Data Analyst & Machine Learning Enthusiast | 📊 Data Visualization | 🧠 Deep Learning | 🖥️ Computer Vision | 🌐 GIS Specialist 🌐 Data Analyst | 📊 Data Visualization | 📈 Predictive Analytics | 🧩 Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."</h4>
 
