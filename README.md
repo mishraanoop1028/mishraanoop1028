@@ -14,7 +14,7 @@ I am passionate about transforming data into impactful solutions through advance
 ### 🧠 What I Do
 
 - 🎓 Final-year M.Tech student working on real-world environmental data
-- 📊 Expert in **Data Analysis**, **Model Building**, and **GIS & LULC Mapping**
+- 📊 Expert in **Data Science**, **Model Building**,**Data Analysis**,**Deep Learning**,** Data-Driven Decision Making**,**Machine Learning** and **GIS & LULC Mapping**
 - 💡 Guiding **20+ students** in their academic and technical projects
 - 🔭 Actively working in the **R&D field**, especially in **climate and spatial modeling**
 - 🌍 Passionate about **Data Science and Data Analysis** with a strong focus on real-world applications 
