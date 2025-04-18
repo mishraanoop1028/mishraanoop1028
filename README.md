@@ -10,20 +10,16 @@
 I'm **Anoop Mishra** from **Lucknow, India**, currently pursuing **M.Tech in Civil Engineering** at **Malaviya National Institute of Technology, Jaipur (MNIT Jaipur)**.
 
 I am passionate about transforming data into impactful solutions through advanced analytics and machine learning. My journey in technology spans multiple domains—from environmental modeling to AI-driven decision-making tools.
-
 ---
-
 ### 🧠 What I Do
 
 - 🎓 Final-year M.Tech student working on real-world environmental data
 - 📊 Expert in **Data Analysis**, **Model Building**, and **GIS & LULC Mapping**
 - 💡 Guiding **20+ students** in their academic and technical projects
 - 🔭 Actively working in the **R&D field**, especially in **climate and spatial modeling**
-- 🌍 Passionate **GIS Engineer** with deep interest in **land use land cover (LULC)** studies
+- 🌍 Passionate about **Data Science and Data Analysis** with a strong focus on real-world applications 
 - 🚀 Exploring **Deep Learning**, **GenAI**, and **Cloud Model Deployment**
-
 ---
-
 ### 💼 Currently Working On
 
 - 📌 **Project**: `Drought Analysis using SPI & Trend Analysis (1980–2020)`
