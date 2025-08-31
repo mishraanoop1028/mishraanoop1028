@@ -1,19 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Anoop Mishra</h1>
 <h3 align="center">
-🚀 M.Tech Final Year Student | Data Scientist | Model Developer | GIS & LULC Engineer | R&D Enthusiast
+🚀 M.Tech | NIT  | Data Scientist | Machine learning | Analyst | R&D Enthusiast
 </h3>
 
 ---
 
 ### 📍 About Me
 
-I'm **Anoop Mishra** from **Lucknow, India**, currently pursuing **M.Tech in Civil Engineering** at **Malaviya National Institute of Technology, Jaipur (MNIT Jaipur)**.
+I'm **Anoop Mishra** from **Lucknow, India**, currently pursuing **M.Tech ** at **Malaviya National Institute of Technology, Jaipur (MNIT Jaipur)**.
 
 I am passionate about transforming data into impactful solutions through advanced analytics and machine learning. My journey in technology spans multiple domains—from environmental modeling to AI-driven decision-making tools.
 ---
 ### 🧠 What I Do
 
-- 🎓 Final-year M.Tech student working on real-world environmental data
+- 🎓 M.Tech |NIT
 - 📊 Expert in **Data Science**, **Model Building**,**Data Analysis**,**Deep Learning**,** Data-Driven Decision Making**,**Machine Learning** and **GIS & LULC Mapping**
 - 💡 Guiding **20+ students** in their academic and technical projects
 - 🔭 Actively working in the **R&D field**, especially in **climate and spatial modeling**
