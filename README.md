@@ -6,6 +6,42 @@
 ---
 
 ### 📍 About Me
+# 🌍 Geospatial AI Risk Engine: 41-Year Climatic Time-Series Forecasting
+**Architecting Agricultural Resilience through Deep Learning and SPI-based Feature Engineering**
+
+[![Docker Support](https://img.shields.io/badge/Docker-Supported-blue.svg)](https://www.docker.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11](https://img.shields.io/badge/Python-3.11-green.svg)](https://www.python.org/)
+
+---
+
+## 🚀 Project Overview
+This project transforms 41 years of granular IMD climatic data into a high-fidelity **Early Warning System (EWS)** for drought and rainfall risk. By moving beyond traditional statistics, it utilizes **LSTM (Long Short-Term Memory)** networks to predict multi-scale temporal indices (SPI-3 to SPI-18), providing a blueprint for risk management in semi-arid regions.
+
+### 🎯 Key Engineering Highlights
+* **Big Data Pipeline:** Engineered features from **15,000+ daily observations** (1980–2021).
+* **Advanced Feature Engineering:** Automated calculation of the **Standardized Precipitation Index (SPI)** across multiple time scales.
+* **Architecture:** Hybrid modeling approach combining **Deep Learning (LSTMs)** with **Ensemble Methods (XGBoost/Random Forest)** for baseline comparison.
+* **Production Ready:** Fully containerized environment for seamless deployment on AWS/Azure.
+
+---
+
+## 🛠️ System Architecture
+
+
+The pipeline is modularized into three core services:
+1. **Ingestion Engine:** Automated cleaning and normalization of IMD raw datasets.
+2. **Analysis Core:** SPI computation and statistical stationarity testing (ADF/KPSS).
+3. **Forecasting Service:** LSTM model training, hyperparameter tuning, and inference.
+
+---
+
+## 🐳 Deployment (Docker Instructions)
+To ensure 100% reproducibility in any environment (Production/Research), use the provided Docker configuration.
+
+### 1. Build the Image
+```bash
+docker build -t geospatial-ai-engine .
 
 I'm **Anoop Mishra** from **Lucknow, India**, currently pursuing **M.Tech ** at **Malaviya National Institute of Technology, Jaipur (MNIT Jaipur)**.
 
