@@ -7,7 +7,7 @@
 
 ### 📍 About Me
 
-I'm **Anoop Mishra** from **Lucknow, India**, currently pursuing **M.Tech ** at **Malaviya National Institute of Technology, Jaipur (MNIT Jaipur)**.
+I'm **Anoop Mishra** from **Lucknow, India**, currently pursuing M.Tech  at **Malaviya National Institute of Technology, Jaipur (MNIT Jaipur)**.
 
 I am passionate about transforming data into impactful solutions through advanced analytics and machine learning. My journey in technology spans multiple domains—from environmental modeling to AI-driven decision-making tools.
 ---
