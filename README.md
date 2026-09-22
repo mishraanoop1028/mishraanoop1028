@@ -1,31 +1,50 @@
 <h1 align="center">Hi there 👋, I'm Anoop Mishra</h1>
 <h3 align="center">
-🚀 M.Tech | NIT  | Data Scientist | Machine learning | Analyst | R&D Enthusiast
+🚀 Data Scientist & AI/ML Engineer | GenAI (Agentic RAG) | PySpark & MLOps | M.Tech (MNIT Jaipur)
 </h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anoop-mishra-b5b61314a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anoopkumarmishra3875@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/mishraanoop1028"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 📍 About Me
 
-I'm **Anoop Mishra** from **Lucknow, India**, currently pursuing M.Tech  at **Malaviya National Institute of Technology, Jaipur (MNIT Jaipur)**.
+Hi, I'm **Anoop Mishra** 👋 — **Data Scientist & AI/ML Engineer** | **Assistant Manager at CBRE / Turner & Townsend** | Former **Assistant Manager at ANJ Turnkey Projects** | **M.Tech Scholar at MNIT Jaipur**.
 
-I am passionate about transforming data into impactful solutions through advanced analytics and machine learning. My journey in technology spans multiple domains—from environmental modeling to AI-driven decision-making tools.
+I engineer production-grade AI solutions, turning unstructured enterprise data and complex time-series metrics into scalable, high-performance systems.
+
+* 🧠 **Generative AI & Agents:** Multi-Agent RAG (LangGraph), Dense/Sparse Hybrid Retrieval (BM25 + pgvector), LLM Guardrails & Reranking.
+* ⚡ **Data & Database Engineering:** PySpark, SQL, PostgreSQL, pgvector, Qdrant, ER Modeling, Database Documentation & Governance.
+* 🚀 **MLOps & Microservices:** FastAPI, Docker, PyTorch, XGBoost, AWS SageMaker, CI/CD, and PowerBI analytics.
+* 🎯 **Domain Focus:** GenAI & LLM Orchestration, Time-Series Forecasting, Data Governance, and Enterprise Decision Analytics.
+
 ---
+
 ### 🧠 What I Do
 
-- 🎓 M.Tech |NIT
-- 📊 Expert in **Data Science**, **Model Building**,**Data Analysis**,**Deep Learning**,** Data-Driven Decision Making**,**Machine Learning** and **GIS & LULC Mapping**
-- 💡 Guiding **20+ students** in their academic and technical projects
-- 🔭 Actively working in the **R&D field**, especially in **climate and spatial modeling**
-- 🌍 Passionate about **Data Science and Data Analysis** with a strong focus on real-world applications 
-- 🚀 Exploring **Deep Learning**, **GenAI**, and **Cloud Model Deployment**
----
-### 💼 Currently Working On
+- 💼 **Current Role:** **Assistant Manager – Data Science & AI Engineering** at **CBRE / Turner & Townsend** (*September 2026 – Present*).
+- 💼 **Prior Experience:** **Assistant Manager – Project & AI Engineer** at **ANJ Turnkey Projects** (*July 2025 – August 2026*).
+- 🎓 **Education:** **M.Tech** from **Malaviya National Institute of Technology, Jaipur (MNIT Jaipur)** (*2023 – 2025*).
+- 📊 **Core Tech Expertise:** Data Science, Generative AI (Agentic RAG), Deep Learning (PyTorch), PySpark, and Spatial-Temporal Analytics.
+- 💡 **Mentorship:** Guided **20+ students & junior engineers** across academic research, machine learning, and spatial data science projects.
+- 🚀 **Production Architecture:** Building containerized microservices using **FastAPI**, **Docker**, **AWS SageMaker**, and **PowerBI**.
 
-- 📌 **Project**: `Drought Analysis using SPI & Trend Analysis (1980–2020)`
-- 📍 **Regions**: Jaipur & Jodhpur Divisions, Rajasthan, India
-- 🧪 Analysis using SPI-3, SPI-6, SPI-9, SPI-12, SPI-18, Mann-Kendall, Sen’s Slope
-- 🛠 Tools Used: Python, Pandas, Matplotlib, Excel, GIS, IMD Rainfall Data
+---
+
+### 💼 Working On
+
+#### 🌍 Geospatial AI Risk Engine: 41-Year Climatic Time-Series Forecasting
+**Architecting Agricultural & Drought Resilience through Deep Learning and SPI-based Feature Engineering**
+
+- 📌 **Research Project**: `Drought Analysis using SPI & Trend Analysis (1980–2021)`
+- 📍 **Target Region**: 11 Districts across Jaipur & Jodhpur Divisions, Rajasthan, India
+- 🧪 **Statistical & ML Core**: SPI-3 to SPI-18, Mann-Kendall, Sen’s Slope, LSTM Networks, and Neural Networks (ANN)
+- 🛠 **Tools & Tech**: Python, PyTorch, Scikit-learn, Statsmodels, Pandas, QGIS, IMD Climatic Datasets
+- 📄 **Publication Status**: Submitted to *Theoretical and Applied Climatology (Springer Nature)*
 
 ---
 
